@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "dist/api",
+    "outDir": "dist",
     "sourceMap": true,
     "target": "es2021",
     "module": "commonjs",
