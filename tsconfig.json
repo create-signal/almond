@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "dist",
+    "outDir": "dist/api",
     "sourceMap": true,
     "target": "es2021",
     "module": "commonjs",
@@ -10,9 +10,5 @@
     "strict": true,
     "skipLibCheck": true
   },
-  "include": [
-    "./*.js",
-    "src/**/*.ts",
-    "test/**/*.ts",
-  ],
+  "include": ["./*.js", "src/**/*.ts", "test/**/*.ts"]
 }
