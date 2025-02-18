@@ -6,5 +6,6 @@
       "use": "@vercel/node"
     }
   ],
+  "buildCommand": "npm run build",
   "rewrites": [{ "source": "/(.*)", "destination": "/api" }]
 }
